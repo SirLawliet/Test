@@ -1,0 +1,28 @@
+{
+  "cars": [
+    {
+      "ID": 1,
+      "manufacturer": "GMC",
+      "model": "1500 Club Coupe",
+      "year": "1998",
+      "vin": "1D7R",
+      "color": "Red"
+    },
+    {
+      "ID": 2,
+      "manufacturer": "Lamborghini",
+      "model": "Gallardo",
+      "year": "2006",
+      "vin": "JN1B",
+      "color": "Blue"
+    },
+    {
+      "ID": 3,
+      "manufacturer": "Chevrolet",
+      "model": "Monte Carlo",
+      "year": "1996",
+      "vin": "1G4H",
+      "color": "Violet"
+    }
+  ]
+}
